@@ -1,4 +1,4 @@
-# Autism-prediction-using-face-images
+# Autism prediction using face images
 #### Image classification CNN model using pre-trained VGG16 - Transfer Learning<br>
 #### Predicting Autistic Spectrum Disorder(ASD) in children using face images of children dataset from Kaggle<br>
 #### Classification metric Area Under Receiver Operating Characteristic Curve AUC is used as the model eavaluation metric<br>
